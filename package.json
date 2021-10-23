@@ -1,0 +1,27 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Pracice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0",
+    "mochawesome": "^6.3.1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "mocha": "^9.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirmalaDeviBodan/CypressAutomation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NirmalaDeviBodan/CypressAutomation/issues"
+  },
+  "homepage": "https://github.com/NirmalaDeviBodan/CypressAutomation#readme"
+}
